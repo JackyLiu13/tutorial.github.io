@@ -1,0 +1,15 @@
+
+.main .row{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+.homeImg{    
+  max-width: 200px;
+  height: auto;
+}
